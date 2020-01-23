@@ -2,7 +2,7 @@ title :💐💐Mừng Xuân Canh Tý
 image :https://i.imgur.com/zl0jEpS.jpg
 date  :23.01.2020
 
-https://i.imgur.com/zl0jEpS.jpg
+![](https://i.imgur.com/zl0jEpS.jpg)
 
 
 ## 💐💐 Vậy là năm cũ đã sắp qua chào đón xuân Canh Tý mới về
